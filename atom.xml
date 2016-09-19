@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[The Beginning]]></title>
+  <link href="http://anjanaraveendra.github.io/atom.xml" rel="self"/>
+  <link href="http://anjanaraveendra.github.io/"/>
+  <updated>2016-09-20T00:22:30+05:30</updated>
+  <id>http://anjanaraveendra.github.io/</id>
+  <author>
+    <name><![CDATA[Anjana Raveendra]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
